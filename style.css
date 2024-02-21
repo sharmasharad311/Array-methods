@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: rgb(228, 168, 147);
+    text-align: center;
+}
+
+img{
+   width: 40%;
+   height: auto;
+}
+
+h1{
+    margin-top: 0;
+    font-size: 70px;
+}
+
+p{
+    font-size: 30px;
+}
+
+
